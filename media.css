@@ -1,0 +1,22 @@
+@media (max-width: 480px) {
+    body {
+        width: 100vw;
+        height: 100vh;
+    }
+    .qr-container{
+        width: 85vw;
+        height: 50vh;
+    }
+    .qr-container h2{
+        font-size: 3rem;
+        text-decoration: underline;
+    }
+    #qr-input {
+        margin-top: 10px ;
+        display: flex;
+    }
+    #img {
+        /* height: 30vh; */
+        width: 30vw;
+    }
+}
